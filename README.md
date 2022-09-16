@@ -28,16 +28,16 @@
 </table>
 
 ### Connect with me:sunglasses:
-<a  href="https://twitter.com/qDVRESBSH4cNKqR?t=Kq7VsSKvc0cy7Jz4UKzOIA&s=09" target="_blank"><img width="30" src="gif/Twitter.png"></a>
+<table><tr><a  href="https://twitter.com/qDVRESBSH4cNKqR?t=Kq7VsSKvc0cy7Jz4UKzOIA&s=09" target="_blank"><img width="30" src="gif/Twitter.png"></a>
 <a href="https://www.instagram.com/dek_ustik/?hl=bg" target="_blank"><img width="30" src="gif/instagram.png"></a>
 <a href="https://www.facebook.com/profile.php?id=100004127235868" target="_blank"><img width="30" src="gif/facebook.png"></a>
 <a href="https://www.linkedin.com/in/hishantik-sarkar-9666b71a1" target="_blank"><img width="30" src="gif/linkedin.png"></a>
 <a href="https://wa.me/qr/EDVHJXWHQQBLI1" target="_blank"><img width="30" src="gif/whatsapp.png"></a>
-<a href="#" target="_blank"><img width="30" src="gif/telegram.png"></a>
+<a href="#" target="_blank"><img width="30" src="gif/telegram.png"></a></tr></table>
 
 ### Technologies <img width="22" src="gif/project-management.png">
 #### Languages <img width="16" src="gif/coding.png">
-<img width="30" src="gif/html.png">
+<table><tr><img width="30" src="gif/html.png">
 <img width="30" src="gif/css-3.png">
 <img width="30" src="gif/sass.png">
 <img width="30" src="gif/java-script.png">
@@ -47,15 +47,15 @@
 <img width="30" src="gif/java.png">
 <img width="30" src="gif/python.png">
 <img width="30" src="gif/machine-learning.png">
-
+</tr></table>
 
 #### <img width="22" src="gif/cloud-computing.png"> Devops &  Cloud Tools <img width="22" src="gif/devops.png">
-<img width="30" src="gif/docker (1).png">
+<table><tr><img width="30" src="gif/docker (1).png">
 <img width="30" src="gif/git.png">
 <img width="30" src="gif/github.png">
 <img width="30" src="gif/react.png">
 <img width="30" src="gif/node-js.png">
-<img width="30" src="gif/linux.png">
+<img width="30" src="gif/linux.png"></tr></table>
 
 
 ### My Contribution:bar_chart:
