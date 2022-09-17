@@ -36,17 +36,16 @@ Languages and Tools:</h3>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishantik&theme=github_dark&hide_broder=true">
 <table>
 <tr>
-<td style="border:hidden">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hishantik&theme=github_dark&utcOffset=8"></td><td style="border:hidden"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hishantik&theme=github_dark&hide_border=true"></td>
+<td>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hishantik&theme=github_dark&utcOffset=8"></td><td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hishantik&theme=github_dark&hide_border=true"></td>
 <tr>
-<table>
-
-<h1></h1>   
+</table>
+  
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hishantik&show_icons=true&locale=en&langs_count=8&layout=compact&theme=gotham&hide_border=true#gh-dark-mode-only">
 <table>
 <tr><td>
-    <img align="left" style="padding:" width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&theme=gotham&hide_border=true"></td><td   ><img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hishantik&theme=gotham&hide_border=true"
+    <img align="left" style="padding:" width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&theme=gotham&hide_border=true"></td><td><img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hishantik&theme=gotham&hide_border=true"
     alt="Streak Stats"></td>
     </tr>
     </table>
@@ -55,8 +54,6 @@ Languages and Tools:</h3>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <h1></h1>
-<table>
-<td align="center" style="border:hidden">
 
 ### 👤 Connect with me <img align="center" width=40 src="https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/64/000000/external-social-digital-business-photo3ideastudio-gradient-photo3ideastudio.png#gh-dark-mode-only"/>
 
@@ -73,9 +70,7 @@ Languages and Tools:</h3>
 [<img align="left" width="22" src="https://img.icons8.com/nolan/64/github.png#gh-dark-mode-only">][Github]
 
 [<img align="left" width="22" src="https://img.icons8.com/nolan/64/youtube-play.png#gh-dark-mode-only">][Youtube]
-</td>
-</table>
-
+<br>
 
 ---
 
