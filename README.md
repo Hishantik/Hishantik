@@ -21,6 +21,7 @@
         ><img
           src="https://api.daily.dev/devcards/e96b412f67c34d57a4a596537ee142ee.png?r=3lx"
           width="300vh"
+          align="right"
           alt="HISHANTIK SARKAR's Dev Card"
       /></a>
  </td>
