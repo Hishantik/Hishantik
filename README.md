@@ -20,7 +20,7 @@
       <a href="https://app.daily.dev/Hishantik"
         ><img
           src="https://api.daily.dev/devcards/e96b412f67c34d57a4a596537ee142ee.png?r=3lx"
-          width="300"
+          width="300vh"
           alt="HISHANTIK SARKAR's Dev Card"
       /></a>
  </td>
@@ -28,7 +28,7 @@
 </table>
 
 ### Connect with me:sunglasses:
-<a href="https://twitter.com/qDVRESBSH4cNKqR?t=Kq7VsSKvc0cy7Jz4UKzOIA&s=09" target="_blank"><img width="30" src="gif/Twitter.png"></a><a href="https://www.instagram.com/dek_ustik/?hl=bg" target="_blank"><img width="30" src="gif/instagram.png"></a><a href="https://www.facebook.com/profile.php?id=100004127235868" target="_blank"><img width="30" src="gif/facebook.png"></a><a href="https://www.linkedin.com/in/hishantik-sarkar-9666b71a1" target="_blank"><img width="30" src="gif/linkedin.png"></a><a href="https://wa.me/qr/EDVHJXWHQQBLI1" target="_blank"><img width="30" src="gif/whatsapp.png"></a><a href="#" target="_blank"><img width="30" src="gif/telegram.png"></a>
+<a href="https://twitter.com/qDVRESBSH4cNKqR?t=Kq7VsSKvc0cy7Jz4UKzOIA&s=09" target="_blank" alt="Twitter"><img width="30" src="gif/Twitter.png"></a><a href="https://www.instagram.com/dek_ustik/?hl=bg" target="_blank"><img width="30" src="gif/instagram.png"></a><a href="https://www.facebook.com/profile.php?id=100004127235868" target="_blank"><img width="30" src="gif/facebook.png"></a><a href="https://www.linkedin.com/in/hishantik-sarkar-9666b71a1" target="_blank"><img width="30" src="gif/linkedin.png"></a><a href="https://wa.me/qr/EDVHJXWHQQBLI1" target="_blank"><img width="30" src="gif/whatsapp.png"></a><a href="#" target="_blank"><img width="30" src="gif/telegram.png"></a>
 
 ### Technologies <img width="22" src="gif/project-management.png">
 #### Languages <img width="16" src="gif/coding.png">
