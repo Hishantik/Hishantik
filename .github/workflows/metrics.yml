@@ -145,3 +145,107 @@ jobs:
           plugin_languages-colors: rainbow
           plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
+          
+      - name: Detailed display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_only: sponsor, maintainer, octonaut, developer, manager, deployer
+
+      - name: Repository introduction
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.introduction.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: repository
+          repo: metrics
+          base: header
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_introduction: yes
+
+      - name: With worldmap
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.worldmap.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+          plugin_stargazers_worldmap_sample: 200
+ 
+      - name: Latest tweets including attachments
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.tweets.attachments.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_user: github
+          plugin_tweets_limit: 1
+
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_leetcode: yes
+          plugin_leetcode_user: hishantik
+          plugin_leetcode_sections: solved, skills, recent
+
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+      - name: Recent posts with descriptions and cover images
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.posts.full.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_limit: 2
+          plugin_posts_user: hishantik
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
