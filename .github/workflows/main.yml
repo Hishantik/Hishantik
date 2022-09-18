@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: commit
-          comitter_branch: metrics-renders
+          committer_branch: metrics-renders
           committer-message: "chore: update metrics"
           plugin_achievements: yes
           plugin_achievements_only: >-
@@ -34,7 +34,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           output_action: commit
-          comitter_branch: metrics-renders
+          committer_branch: metrics-renders
           committer-message: "chore: update metrics"
           plugin_anilist: yes
           plugin_anilist_sections: characters
@@ -47,7 +47,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: commit
-          comitter_branch: metrics-renders
+          committer_branch: metrics-renders
           committer-message: "chore: update metrics"
           plugin_habits: yes
           plugin_habits_facts: no
@@ -60,7 +60,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: commit
-          comitter_branch: metrics-renders
+          committer_branch: metrics-renders
           committer-message: "chore: update metrics"
           plugin_habits: yes
           plugin_habits_facts: yes
