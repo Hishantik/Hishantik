@@ -25,5 +25,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Hishantik Sarkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hishantik Sarkar" /></a></p><br><br>
 
-[metrics](github-metrics.svg)
+<img align="left" width=48% src="github-metrics.svg">
 
