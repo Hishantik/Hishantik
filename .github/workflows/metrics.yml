@@ -19,8 +19,8 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }} 
+          #output_action: gist
+          #committer_gist: ${{ secrets.GIST }} 
           #committer_message: "chore: update metrics"
           plugin_achievements: yes
           plugin_achievements_only: >-
@@ -154,17 +154,17 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_only: sponsor, maintainer, octonaut, developer, manager, deployer
 
-      - name: Repository introduction
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.introduction.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
-          repo: metrics
-          base: ""
+      #- name: Repository introduction
+       # uses: lowlighter/metrics@latest
+        #with:
+         # filename: metrics.plugin.introduction.repository.svg
+          #token: ${{ secrets.METRICS_TOKEN }}
+          #template: repository
+          #repo: metrics
+          #base: ""
           #output_action: commit
           #committer_branch: output
-          plugin_introduction: yes
+          #plugin_introduction: yes
 
       #- name: With worldmap
        # uses: lowlighter/metrics@latest
