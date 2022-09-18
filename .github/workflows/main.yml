@@ -17,6 +17,9 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          output_action: commit
+          comitter_branch: metrics-renders
+          committer-message: "chore: update metrics"
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
@@ -30,6 +33,9 @@ jobs:
           filename: metrics.plugin.anilist.characters.svg
           token: NOT_NEEDED
           base: ""
+          output_action: commit
+          comitter_branch: metrics-renders
+          committer-message: "chore: update metrics"
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
@@ -40,6 +46,9 @@ jobs:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          output_action: commit
+          comitter_branch: metrics-renders
+          committer-message: "chore: update metrics"
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
@@ -50,6 +59,9 @@ jobs:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          output_action: commit
+          comitter_branch: metrics-renders
+          committer-message: "chore: update metrics"
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
