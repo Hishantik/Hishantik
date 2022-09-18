@@ -19,8 +19,8 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-         # output_action: commit
-        #  committer_branch: output 
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }} 
           #committer_message: "chore: update metrics"
           plugin_achievements: yes
           plugin_achievements_only: >-
@@ -37,7 +37,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
          # output_action: commit
-         # committer_branch: output
+         # committer_gist: output
           #committer_message: "chore: update metrics"
           plugin_anilist: yes
           plugin_anilist-suffle: yes
