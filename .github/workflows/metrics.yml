@@ -161,7 +161,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
           repo: metrics
-          base: header
+          base: ""
           output_action: commit
           committer_branch: output
           plugin_introduction: yes
