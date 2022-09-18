@@ -1,4 +1,4 @@
-.name: Metrics
+name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 * * * *"}]
@@ -245,5 +245,3 @@ jobs:
           plugin_skyline_year: current-year
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
-
-#End  of  code
