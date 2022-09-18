@@ -19,8 +19,9 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }} 
+          output_action: commit
+          committer_branch: output
+          #committer_gist: ${{ secrets.GIST }} 
           #committer_branch: metrics-renders
           #committer_message: "chore: update metrics"
           plugin_achievements: yes
