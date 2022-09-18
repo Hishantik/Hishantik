@@ -19,7 +19,7 @@ jobs:
           base: ""
           output_action: commit
           committer_branch: metrics-renders
-          committer-message: "chore: update metrics"
+          committer_message: "chore: update metrics"
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
@@ -35,7 +35,7 @@ jobs:
           base: ""
           output_action: commit
           committer_branch: metrics-renders
-          committer-message: "chore: update metrics"
+          committer_message: "chore: update metrics"
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
@@ -48,7 +48,7 @@ jobs:
           base: ""
           output_action: commit
           committer_branch: metrics-renders
-          committer-message: "chore: update metrics"
+          committer_message: "chore: update metrics"
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
@@ -61,7 +61,7 @@ jobs:
           base: ""
           output_action: commit
           committer_branch: metrics-renders
-          committer-message: "chore: update metrics"
+          committer_message: "chore: update metrics"
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
