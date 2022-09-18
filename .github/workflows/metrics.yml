@@ -170,19 +170,19 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_introduction: yes
 
-      - name: With worldmap
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stargazers.worldmap.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
+      #- name: With worldmap
+       # uses: lowlighter/metrics@latest
+       # with:
+       #   filename: metrics.plugin.stargazers.worldmap.svg
+       #   token: ${{ secrets.METRICS_TOKEN }}
+       #   base: ""
+       #   output_action: gist
+       #   committer_gist: ${{ secrets.GIST }}
+       #   plugin_stargazers: yes
+       #   plugin_stargazers_charts: no
+       #   plugin_stargazers_worldmap: yes
+       #   plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+       #   plugin_stargazers_worldmap_sample: 200
  
       - name: Latest tweets including attachments
         uses: lowlighter/metrics@latest
@@ -207,20 +207,20 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_leetcode: yes
-          plugin_leetcode_user: hishantik
+          plugin_leetcode_user: Dekustik
           plugin_leetcode_sections: solved, skills, recent
 
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+     # - name: WakaTime
+     #   uses: lowlighter/metrics@latest
+     #   with:
+     #     filename: metrics.plugin.wakatime.svg
+     #     token: NOT_NEEDED
+     #     base: ""
+     #     output_action: gist
+     #     committer_gist: ${{ secrets.GIST }}
+     #     plugin_wakatime: yes
+     #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+     #     plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: Recent posts with descriptions and cover images
         uses: lowlighter/metrics@latest
