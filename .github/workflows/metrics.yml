@@ -144,7 +144,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
           repo: Hishantik
-          base: ""
+          base: header
           plugin_introduction: yes
 
       #- name: With worldmap
@@ -228,17 +228,6 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
 
-      - name: Sponsors introduction
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.sponsors.full.svg
-          token: ${{ secrets.METRICS_TOKEN_SCOPES }}
-          base: header
-          plugin_sponsors: yes
-          plugin_sponsors_title: Support Me!
-          plugin_sponsors_section: goal, list, about
-          plugin_sponsors_size: 30
-
       - name: Gists
         uses: lowlighter/metrics@latest
         with:
@@ -246,3 +235,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_gists: yes
+
+      - name: Sponsors introduction
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.sponsors.full.svg
+          token: ${{ secrets.METRICS_TOKEN_SCOPES }}
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_title: Support Me!
+          #plugin_sponsors_section: goal, list, about
+          plugin_sponsors_size: 30
