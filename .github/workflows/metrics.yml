@@ -233,7 +233,7 @@ jobs:
         with:
           filename: metrics.plugin.sponsors.full.svg
           token: ${{ secrets.METRICS_TOKEN_SCOPES }}
-          base: ""
+          base: header
           plugin_sponsors: yes
           plugin_sponsors_title: Support Me!
           plugin_sponsors_section: goal, list, about
