@@ -44,7 +44,33 @@ jobs:
           #plugin_anilist_medias: anime
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
-
+         
+      - name: Favorites anime and currently watching
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorite watching
+          plugin_anilist_limit: 1    
+      
+      - name: Favorites manga and currently reading
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.anilist.manga.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         output_action: gist
+         committer_gist: ${{ secrets.GIST }}
+         plugin_anilist: yes
+         plugin_anilist_medias: manga
+         plugin_anilist_sections: favorites, reading
+         plugin_anilist_limit: 1 
+      
       - name: Fortune
         uses: lowlighter/metrics@latest
         with:
@@ -199,8 +225,18 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
-          plugin_tweets_user: github
+          plugin_tweets_user: sarkar_234
           plugin_tweets_limit: 1
+          
+      - name: Latest tweets
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.tweets.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_tweets: yes
+         plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+         plugin_tweets_user: sarkar_234    
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
@@ -253,7 +289,29 @@ jobs:
           plugin_skyline_year: current-year
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
-          
+      
+      - name: GitHub City
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.city.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist 
+          committer_gist: ${{ secrets.GIST }}
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: no
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io GithubCity?name=Hishantik&year=$year",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span =>span.innerText).includes('Hishantik')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
+     
+     
       - name: Using chartist charts
         uses: lowlighter/metrics@latest
         with:
@@ -287,3 +345,65 @@ jobs:
           plugin_sponsors_title: Support Me!
           #plugin_sponsors_section: goal, list, about
           plugin_sponsors_size: 30
+ 
+      - name: Repositories and diff history
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.history.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1 
+       
+      - name: Comment reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage 
+       
+      - name: Top answers from stackoverflow
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stackoverflow.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_sections: answers-top, questions-top
+          plugin_stackoverflow_limit: 2
+       
+       
+      - name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }} 
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_sort: activity 
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
