@@ -1,4 +1,4 @@
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.fullyear.svg">
+<img align="right" width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.fullyear.svg">
 
 <img align="right" width=40 src="https://img.icons8.com/nolan/64/light.png#gh-dark-only-mode"/>
 <img width=100% src="./gif/pngwing.com (2).png">
