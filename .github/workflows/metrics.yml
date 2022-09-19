@@ -38,6 +38,15 @@ jobs:
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
 
+      - name: Fortune
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.fortune.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_fortune: yes
+
+
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
@@ -134,7 +143,7 @@ jobs:
           filename: metrics.plugin.introduction.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
-          repo: metrics
+          repo: Hishantik
           base: ""
           plugin_introduction: yes
 
@@ -209,3 +218,31 @@ jobs:
           plugin_skyline_year: current-year
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
+          
+      - name: Using chartist charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.chartist.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
+
+      - name: Sponsors introduction
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.sponsors.full.svg
+          token: ${{ secrets.METRICS_TOKEN_SCOPES }}
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_title: Support Me!
+          plugin_sponsors_section: goal, list, about
+          plugin_sponsors_size: 30
+
+      - name: Gists
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.gists.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_gists: yes
