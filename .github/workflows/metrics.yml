@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule hourly updates
   schedule: [{cron: "0 0/4 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
