@@ -4,7 +4,7 @@
 <img align="right" width=40 src="https://img.icons8.com/nolan/64/light.png#gh-dark-only-mode"/>
 <img width=100% src="./gif/pngwing.com (2).png">
 
-  # Hi! 🙌 
+  <div style="font-family:cursive; color:yellow; text-shadow:2px 2px 5px yellow"><h2>sHi! 🙌 
       🔥I'm Hishantik Sarkar🔥
 
 ---
