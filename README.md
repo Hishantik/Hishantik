@@ -64,14 +64,13 @@
 <!--<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&pause=500&color=F7F7F7&background=99996600&multiline=true&width=420&lines=%23+My+Contributions+and++achievements" alt="Typing SVG" />-->
 <!--<img width="100%" align="center" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">-->
 
-<span><table>
+<table>
 <tr>
 <td style="border:hidden">
-<img align=left src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.svg">
+<img align=left src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">
 <img align=right src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.notable.indepth.svg"></td>
-
 </tr>
-</table></span>
+</table>
 
 
 
