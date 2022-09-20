@@ -19,6 +19,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&style=social">][Dev.to] [<img width="" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&style=social">][stack_overflow] [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=social">][Twitter] [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social">][Linkedin]
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=social">][Instagram]
 </div>
 
 ***
@@ -26,6 +27,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&pause=500&color=F7F7F7&background=99996600&center=true&multiline=true&width=420&lines=%23+My+Tech+Stacks+%F0%9F%93%9A" alt="Typing SVG" />
 
+<span><table><tr><td>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=social">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=social"> 
  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&style=social">
@@ -43,9 +45,12 @@
  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&style=social">
  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white&style=social">
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=social">
+ [<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.topics.svg">]()</tr></td>
+ </table>
+ </span>
 
 
-[<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.topics.svg">]()
+
 
 ***
 <span>
@@ -55,14 +60,15 @@
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&pause=500&color=F7F7F7&background=99996600&multiline=true&width=420&lines=%23+My+Contributions+and++achievements" alt="Typing SVG" />-->
 <!--<img width="100%" align="center" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">-->
-<table>
+
+<span><table>
 <tr>
 <td style="border:hidden">
 <img align=left src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.svg">
 <img align=right src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.notable.indepth.svg"></td>
 
 </tr>
-</table>
+</table></span>
 
 
 
@@ -82,3 +88,4 @@
 [Twitter]: https://twitter.com/sarkar_234
 [Github]: https://gihub.com/Hishantik
 [Linkedin]: #
+[Instagram]: https:instagram.com/dek_ustik
