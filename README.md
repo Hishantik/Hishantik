@@ -1,106 +1,14 @@
-<img align="right" width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.fullyear.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw//metrics.plugin.introduction.repository.svg">
-
-<img align="right" width=40 src="https://img.icons8.com/nolan/64/light.png#gh-dark-only-mode"/>
-<img width=100% src="./gif/pngwing.com (2).png">
-
-  <div style="font-family:cursive; color:yellow; text-shadow:2px 2px 5px yellow"><h2>sHi! 🙌 
-      🔥I'm Hishantik Sarkar🔥
-
----
-## :boy:About Me
-  <img align="right" alt="Coder GIF"  width=300 src="./gif/pngwing.com.png" />
-
-- I am currently pursuing my **Bachelor's in Computer Application**.
-- warning:I have currently mastered **C++,Java,Python,Javascript**. 
-- I am currently learning
- **Typescript,Machine learning** & also interested in **Web-Development**.
-- I love to learn different modern technologies.
-<h1></h1>
-<h3 align="center"><img align="center" width=30 src="https://img.icons8.com/nolan/64/code--v2.png#gh-dark-only-mode"/>
-Languages and Tools:</h3>
-<img align="right" width=300 src="./gif/pngwing.com (1).png">
-
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<img align="left" width="20%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.skyline.svg">
-<h1></h1>
-<h3 align="center">📈 My ConTributions & Achievements</h3>
-<img align="left" style="margin-bottom:12px" width=300 src="./gif/programmer.png">
-
-<details><summary>👉Click me👈</summary>
-<img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=Hishantik&&&theme=gotham">
-
-### :trophy: Github Profile Trophies :point_down:
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Hishantik&theme=darklover&column=-1&no-frame=true&no-bg=true#gh-dark-mode-only">
-</details>
-
----
-
-### My Stats:bar_chart:
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishantik&theme=github_dark&hide_broder=true">
 <table>
-<tr>
-<td>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hishantik&theme=github_dark&utcOffset=8"></td><td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hishantik&theme=github_dark&hide_border=true"></td>
-<tr>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=500&color=F7F7F7&background=99996600&multiline=true&width=430&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+Welcome+to+my+Github+profile+%F0%9F%99%82" alt="Typing SVG" />
+<img align="right" width=30% src="./gif/naruto.png">
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=2000&pause=500&color=F7F7F7&background=99996600&multiline=true&width=343&height=270&lines=I+am+Hishantik+Sarkar%2C+a+passionate+self-learning;Full-Stack+Developer.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm++currently++working+at++nothing+cool+.+%F0%9F%98%9B;%F0%9F%A4%96+I'm+currently+learning+Kotlin%2C+Flutter+%2CGo.;%F0%9F%92%AC+Ask+me+anything+related+to+Javascript%2C+Java%2C;python+or+frameworks+like+Angular%2C+React%2C+Express%2C;flask%2C+so+on....;%F0%9F%93%AE+How+to+reach+me+%E2%81%89%EF%B8%8F+%F0%9F%91%87+;-%3E+%F0%9F%93%A7+rishabhsharmah29%40gmail.com;Twitter+%F0%9F%90%A6+-%3E++%40sarkar_234">
 </table>
 
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.anilist.characters.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.activity.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.tweets.attachments.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw//metrics.plugin.introduction.repository.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.habits.facts.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.habits.charts.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.languages.indepth.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.notable.indepth.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.people.followers.svg">
-<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.gists.svg">
-
-  
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hishantik&show_icons=true&locale=en&langs_count=8&layout=compact&theme=gotham&hide_border=true#gh-dark-mode-only">
-<table>
-<tr><td>
-    <img align="left" style="padding:" width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&theme=gotham&hide_border=true"></td><td><img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hishantik&theme=gotham&hide_border=true"
-    alt="Streak Stats"></td>
-    </tr>
-    </table>
- 
-<img width=100% align=center src="github-contribution-grid-snake.svg">
-
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 <h1></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&pause=500&color=F7F7F7&background=99996600&center=true&multiline=true&width=420&height=90&lines=%23+Contributions+I+made+this+year+;%F0%9F%91%87" alt="Typing SVG" />
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.fullyear.svg">
 
-### 👤 Connect with me <img align="center" width=40 src="https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/64/000000/external-social-digital-business-photo3ideastudio-gradient-photo3ideastudio.png#gh-dark-mode-only"/>
+![demon](https://user-images.githubusercontent.com/60609786/191275634-bbc85590-89f6-4edc-8e97-db0454e31580.png)
 
-[<img align="left" width="22" src="https://img.icons8.com/nolan/64/twitter.png#gh-dark-mode-only">][Twitter]
 
-[<img align="left" width="22" src="https://img.icons8.com/nolan/64/instagram-new.png#gh-dark-mode-only">][Instagram]
 
-[<img align="left" width="22" src="https://img.icons8.com/nolan/64/facebook.png#gh-dark-mode-only">][Facebook]
-
-[<img align="left" width="22" src="https://img.icons8.com/nolan/64/linkedin.png#gh-dark-mode-only">][Linkedin]
-
-[<img align="left" width="22" src="https://img.icons8.com/nolan/64/whatsapp.png#gh-dark-mode-only">][Whatsapp]
-
-[<img align="left" width="22" src="https://img.icons8.com/nolan/64/github.png#gh-dark-mode-only">][Github]
-
-[<img align="left" width="22" src="https://img.icons8.com/nolan/64/youtube-play.png#gh-dark-mode-only">][Youtube]
-<br>
-
----
-
-<p align="center"><a href="https://www.buymeacoffee.com/rishabhshaF"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HishantikSarkar" /></a></p><br><br>
-
-[Twitter]: https://twitter.com/qDVRESBSH4cNKqR?t=Kq7VsSKvc0cy7Jz4UKzOIA&s=09
-[Instagram]: https://www.instagram.com/dek_ustik/?hl=bg
-[Facebook]: https://www.facebook.com/profile.php?id=100004127235868
-[Whatsapp]: https://wa.me/qr/EDVHJXWHQQBLI1
-[Linkedin]: https://www.linkedin.com/in/hishantik-sarkar-9666b71a1
-[Youtube]: #
-[Github]:https://github.com/Hishantik
-
-</div>
