@@ -146,8 +146,8 @@
 </td></table>
 <div align="center"><img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.habits.charts.svg"></div>
 
-<!--[GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
+<img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 <img align=center width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.languages.indepth.svg">
 
