@@ -86,7 +86,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&pause=500&color=F7F7F7&background=99996600&multiline=true&width=420&lines=%23+My+Contributions+and++achievements" alt="Typing SVG" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Hishantik&bg_color=000000&color=E7C60F&line=2ECC71 &point=F1C40F&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Hishantik&theme=chartreuse-dark&area=true&hide_border=true">
 
 [<img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">]()
 
