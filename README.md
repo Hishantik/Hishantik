@@ -1,7 +1,9 @@
+<img width="50%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.fortune.svg">
 <span>
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=500&color=F7F7F7&background=99996600&multiline=true&width=430&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+Welcome+to+my+Github+profile+%F0%9F%99%82" alt="Typing SVG" />
 <img align="right" width=30% src="./gif/naruto.png">
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=2000&pause=500&color=F7F7F7&background=99996600&multiline=true&width=343&height=270&lines=I+am+Hishantik+Sarkar%2C+a+passionate+self-learning;Full-Stack+Developer.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm++currently++working+at++nothing+cool+.+%F0%9F%98%9B;%F0%9F%A4%96+I'm+currently+learning+Kotlin%2C+Flutter+%2CGo.;%F0%9F%92%AC+Ask+me+anything+related+to+Javascript%2C+Java%2C;python+or+frameworks+like+Angular%2C+React%2C+Express%2C;flask%2C+so+on....;%F0%9F%93%AE+How+to+reach+me+%E2%81%89%EF%B8%8F+%F0%9F%91%87+;-%3E+%F0%9F%93%A7+rishabhsharmah29%40gmail.com;Twitter+%F0%9F%90%A6+-%3E++%40sarkar_234">
+
 
 
 </span>
@@ -81,8 +83,10 @@
 </div>
 
 ***
-<span>
+
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&pause=500&color=F7F7F7&background=99996600&multiline=true&width=420&lines=%23+My+Contributions+and++achievements" alt="Typing SVG" />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Hishantik&bg_color=000000&color=E7C60F&line=2ECC71 &point=F1C40F&area=true&hide_border=true">
 
 [<img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">]()
 
@@ -91,17 +95,20 @@
 
 
 
-
-<div align=center><img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=1&pause=10000000000000000000000000000000000000000&color=EFF7F5&center=true&width=435&lines=Click+Naruto+to+know+more" alt="Typing SVG" /></div>
+<div align= center><img width=48% style="" src="https://user-images.githubusercontent.com/60609786/191425458-634f8779-7d71-4f66-94d7-b6d45afd6833.png"></div>
 <table>
-<details>
-<summary style="list-style:none"><div align= center><img width=48% style="" src="https://user-images.githubusercontent.com/60609786/191425458-634f8779-7d71-4f66-94d7-b6d45afd6833.png"></div></summary>
-<img align=left src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">
-<img align=left src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.notable.indepth.svg">
-</span>
+<tbody>
+<td style="border:hidden" width=100% align=center >
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.notable.indepth.svg">
+
+</td>
+</tbody>
+</table>
 
 
-<h1></h1>
+
+***
 
 
 
@@ -110,10 +117,12 @@
 
 
 <div align=center><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=EFF7F5&center=true&width=435&lines=%23+My+Activities+%26+performance%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></div>
+
+<table><td  width=100% style="border:hidden">
 <div align=center>
 <img width=80 src="https://user-images.githubusercontent.com/60609786/191430096-90dfb98b-5c24-4173-b186-e88919bbe45b.png">
 <img width=68% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.introduction.repository.svg"></div>
-<div></div>
+</td></table>
 
 
 
@@ -121,28 +130,67 @@
 
 
 
-
+<table><td width=100% style="border:hidden">
 <div align=left><img width=50% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.habits.facts.svg">
+<tr><td width= style="border:hidden">
+<div align=center>
+<img width=45% src="https://user-images.githubusercontent.com/60609786/191275634-bbc85590-89f6-4edc-8e97-db0454e31580.png">
+<img width=51% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.activity.svg"></td>
+</td></table>
+<div align="center"><img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.habits.charts.svg"></div>
+<div align=center>
+
+<h1></h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=EFF7F5&center=true&width=270&lines=%23+My+Leetcode+Stats+" alt="Typing SVG" />
+
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&style=social">][LeetCode]
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.leetcode.svg">
+</div>
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.reactions.svg">
 
 
-
-
-<section>
-<details style=""><summary style="list-style:none"><img align=right width=50% src="https://user-images.githubusercontent.com/60609786/191275634-bbc85590-89f6-4edc-8e97-db0454e31580.png"></summary>
-<div align="center"><img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.habits.charts.svg"></div>
-</details>
-</section>
 
 ***
 
-<section align=left>
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=1&pause=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=EFF7F5&center=true&width=435&lines=Anime+Section" alt="Typing SVG" />
-    <details>
-<summary style="list-style:none"><div align=left><img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white&style=social"></div></summary>
+<table>
+<td  width=100% align=center>
+<section align=center>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=EFF7F5&center=true&width=270&lines=Anime+Section" alt="Typing SVG" />
+
+<img width=70% src="https://user-images.githubusercontent.com/60609786/191464550-7b6adc10-b0bb-4ab3-b4df-9185a51d3b38.png">
+    <details align=center>
+<summary style="list-style:none"><div align=center>
+
+[<img align=center src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white&style=social">][ChrunchyRoll] 
+</div></summary>
 <img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.anilist.characters.svg">
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw//metrics.plugin.anilist.svg">
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.anilist.manga.svg">
    </details>
 </section>
+</td>
+</table>
 
+***
+<table><td width=100%><img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.skyline.svg"></td></table>
+
+<table><td> 
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.posts.full.svg">
+<td>
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.tweets.svg"></td>
+<table>
+<img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.gists.svg">
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.people.followers.svg">
+
+***
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=33&duration=2000&pause=500&color=EFF7F5&width=270&lines=%23+Support+Me" alt="Typing SVG" />
+<table>
+<td width=100% align=center>
+<img width=30% src="https://user-images.githubusercontent.com/60609786/191489679-195cbee4-772b-479f-9f82-a28e837ecd50.png">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></td>
+<table>
 
 
 
@@ -152,4 +200,6 @@
 [Github]: https://gihub.com/Hishantik
 [Hashnode]:https://hashnode.com/@Dekustik
 [Linkedin]: #
+[LeetCode]:https://leetcode.com/Dekustik
 [Instagram]: https:instagram.com/dek_ustik
+[ChrunchyRoll]:#
