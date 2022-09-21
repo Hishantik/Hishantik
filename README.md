@@ -95,7 +95,7 @@
 
 
 
-<div align= center><img width=48% style="" src="https://user-images.githubusercontent.com/60609786/191425458-634f8779-7d71-4f66-94d7-b6d45afd6833.png"></div>
+<div align=center><img width=48% style="" src="https://user-images.githubusercontent.com/60609786/191425458-634f8779-7d71-4f66-94d7-b6d45afd6833.png"></div>
 <table>
 <tbody>
 <td style="border:hidden" width=100% align=center >
@@ -139,12 +139,13 @@
 </td></table>
 <div align="center"><img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.habits.charts.svg"></div>
 <img align=center width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.languages.indepth.svg">
-<div align=center>
+
 
 
 <h1></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=EFF7F5&center=true&width=270&lines=%23+My+Leetcode+Stats+" alt="Typing SVG" />
+<div align=center>
 
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&style=social">][LeetCode]
 <img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.leetcode.svg">
