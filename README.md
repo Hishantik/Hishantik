@@ -147,12 +147,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=EFF7F5&center=true&width=270&lines=%23+My+Leetcode+Stats+" alt="Typing SVG" />
 
+<div align=center>
 
-[<img align=center src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&style=social">][LeetCode]
+[<img align=center src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&style=social">][LeetCode]<div>
+<div align=center>
 <img align=center src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.leetcode.svg">
 </div>
+<div align=center>
 <img align=center src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.reactions.svg">
-
+</div>
 
 
 ***
