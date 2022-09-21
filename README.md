@@ -9,9 +9,10 @@
 </span>
 <h1></h1>
 
+<div align=center>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&pause=500&color=F7F7F7&background=99996600&center=true&multiline=true&width=420&lines=%23+My+Tech+Stacks+%F0%9F%93%9A" alt="Typing SVG" />
 
-<span><table><tr><td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=social">
+<span><table><td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=social">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=social"> 
  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&style=social">
  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&style=social">
@@ -27,10 +28,15 @@
  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white&style=social">
  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&style=social">
  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white&style=social">
- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=social"></td></tr> 
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=social"></td>
+</div>
+
+<div align=center>
 
 [<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.topics.svg">]()
+</div>
 
+<div align=center>
  </table>
  </span>
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=2000&color=EFF7F5&center=true&width=435&lines=%23+Tools+%F0%9F%A7%B0+%26++Frameworks" alt="Typing SVG" />
@@ -63,7 +69,7 @@
  </td>
  </tr>
  </table>
-
+</div>
 
 ***
 
@@ -118,12 +124,13 @@
 
 <div align=center><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&duration=1&pause=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=EFF7F5&center=true&width=435&lines=%23+My+Activities+%26+performance%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></div>
 
-<table><td  width=100% style="border:hidden">
+<div align=center>
+<table><td width=100% style="border:hidden">
 <div align=center>
 <img width=80 src="https://user-images.githubusercontent.com/60609786/191430096-90dfb98b-5c24-4173-b186-e88919bbe45b.png">
 <img width=68% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.introduction.repository.svg"></div>
 </td></table>
-
+</div>
 
 
 
