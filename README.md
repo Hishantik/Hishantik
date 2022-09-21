@@ -149,7 +149,7 @@
 
 
 [<img align=center src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&style=social">][LeetCode]
-<img align=center width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.leetcode.svg">
+<img align=center src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.leetcode.svg">
 </div>
 <img align=center src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.reactions.svg">
 
