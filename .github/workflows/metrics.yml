@@ -254,17 +254,17 @@ jobs:
           plugin_leetcode_user: Dekustik
           plugin_leetcode_sections: solved, skills, recent
 
-     # - name: WakaTime
-     #   uses: lowlighter/metrics@latest
-     #   with:
-     #     filename: metrics.plugin.wakatime.svg
-     #     token: NOT_NEEDED
-     #     base: ""
-     #     output_action: gist
-     #     committer_gist: ${{ secrets.GIST }}
-     #     plugin_wakatime: yes
-     #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-     #     plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: Recent posts with descriptions and cover images
         uses: lowlighter/metrics@latest
