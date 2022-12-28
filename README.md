@@ -29,7 +29,7 @@ ${\mathcal{\Large{\color{green}{This \ is } \ \color{white}{\  Hishantik \ Sarka
 </font>
 <font size="6">
 
-         I am passionate software engineer . I have been learning shell scripting, java, javascript, react-native & kotlin....& also I am intrested in machine learning too.
+          👉 I am passionate software engineer . I have been learning shell scripting, java, javascript, react-native & kotlin....& also I am intrested in machine learning too.
 
 </font>
 <font size="3">
