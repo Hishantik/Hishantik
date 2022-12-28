@@ -1,5 +1,5 @@
 <!-- <img width="100%" height=300 src="https://user-images.githubusercontent.com/60609786/209667896-08c8dfb3-1f3d-4245-b075-bd4a24e3f223.png"/> -->
-<img src="./wave.svg">
+<img src="https://user-images.githubusercontent.com/60609786/209779573-60380d57-3584-42b4-926c-c0a0203f63cf.svg">
 
 
 $\mathcal{\color{purple}{Newbie} \ \color{cyan}{Software \ developer}}$ 
