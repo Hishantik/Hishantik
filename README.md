@@ -1,17 +1,3 @@
-<!-- <img width="100%" height=300 src="https://user-images.githubusercontent.com/60609786/209667896-08c8dfb3-1f3d-4245-b075-bd4a24e3f223.png"/> -->
-<<<<<<< HEAD
-<img src="https://user-images.githubusercontent.com/60609786/209779573-60380d57-3584-42b4-926c-c0a0203f63cf.svg">
-
-
-$\mathcal{\color{purple}{Newbie} \ \color{cyan}{Software \ developer}}$ 
-
-
-
-<div align="center">
-
-<img width="30%" src="https://images.weserv.nl/?url=user-images.githubusercontent.com/60609786/209664504-94c020b5-468c-4f4d-a060-e7bc6f540c57.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
-
-=======
 <!-- <img src="https://user-images.githubusercontent.com/60609786/209779573-60380d57-3584-42b4-926c-c0a0203f63cf.svg"> -->
 
 <img src="https://user-images.githubusercontent.com/60609786/209834151-3194621c-2fae-4251-8d32-a27959111fc5.svg">
@@ -25,7 +11,6 @@ $\mathcal{\color{purple}{Newbie} \ \color{cyan}{Software \ developer}}$
 
 <img width="30%" src="https://images.weserv.nl/?url=user-images.githubusercontent.com/60609786/209664504-94c020b5-468c-4f4d-a060-e7bc6f540c57.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
 
->>>>>>> secondary
 </div>
 
 <span > 
@@ -110,11 +95,8 @@ ${\textsf{\Large{\color{green}{  \ Contributions : }}}}$
 <!-- [<img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">]() -->
 
 <img width="100%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/4d8129c76afa3a962f1ef9a3ecf4a862a6945383/metrics.plugin.isocalendar.fullyear.svg">
-<<<<<<< HEAD
-=======
 <img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only">
 <img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
->>>>>>> secondary
 </span>
 
 ***
@@ -154,7 +136,6 @@ ${\textsf{\Large{\color{green}{  \ Activities \ and \ performance  : }}}}$
 <div align="center"></div>
 
 
-=======
 <img align="center" width="100%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/4d8129c76afa3a962f1ef9a3ecf4a862a6945383/metrics.plugin.habits.facts.svg">
 </td></table>
 
@@ -181,7 +162,6 @@ ${\textsf{\Large{\color{green}{  \ Skyline : }}}}$
 
 
 <img src="https://user-images.githubusercontent.com/60609786/209834066-a2759119-e2a7-4493-a573-2b32fb1162c3.svg">
->>>>>>> secondary
 
 
 
