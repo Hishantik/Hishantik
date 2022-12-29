@@ -90,10 +90,13 @@ ${\textsf{\Large{\color{green}{  \ Contributions : }}}}$
 
 </font>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=232323&line=E9ECEF&point=E9ECEF&title_color=E9ECEF&color=E9ECEF&custom_title=My%20Contribution%20Graph :&area_color=E9ECEF&area=true&hide_border=true#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=E9ECEF&line=006400&point=006400&title_color=006400&color=006400&custom_title=My%20Contribution%20Graph :&area_color=228B22&area=true&hide_border=true#gh-dark-mode-only">
 
-<!-- [<img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">]() -->
+[![Hishantik's github contribution-dark](https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=232323&line=E9ECEF&point=E9ECEF&title_color=E9ECEF&color=E9ECEF&custom_title=My%20Contribution%20Graph%20:&area_color=E9ECEF&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/Hishantik/Hishantik)
+[![Hishantik's github contribution-light](https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=E9ECEF&line=006400&point=006400&title_color=006400&color=006400&custom_title=My%20Contribution%20Graph%20:&area_color=228B22&area=true&hide_border=true#gh-light-mode-only)](https://github.com/Hishantik/Hishantik)
+
+ <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=232323&line=E9ECEF&point=E9ECEF&title_color=E9ECEF&color=E9ECEF&custom_title=My%20Contribution%20Graph :&area_color=E9ECEF&area=true&hide_border=true#gh-dark-mode-only"> -->
+ <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=E9ECEF&line=006400&point=006400&title_color=006400&color=006400&custom_title=My%20Contribution%20Graph :&area_color=228B22&area=true&hide_border=true#gh-light-mode-only"> -->
+
 
 <img width="100%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/4d8129c76afa3a962f1ef9a3ecf4a862a6945383/metrics.plugin.isocalendar.fullyear.svg">
 <img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only">
@@ -107,8 +110,11 @@ ${\textsf{\Large{\color{green}{  \ Contributions : }}}}$
 ${\textsf{\Large{\color{green}{  \ Achievements : }}}}$
  </font>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=E9ECEF&text_color=E9ECEF&bg_color=45,232323,495057&custom_title=My Github Stats :&icon_color=E9ECEF&ring_color=E9ECEF#gh-dark-mode-only">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=006400&text_color=006400&bg_color=45,E9ECEF,DEE2E6&custom_title=My Github Stats :&icon_color=006400&ring_color=006400#gh-light-mode-only">
+[![Hishantik's github stats-dark](https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=E9ECEF&text_color=E9ECEF&bg_color=45,232323,495057&custom_title=My%20Github%20Stats%20:&icon_color=E9ECEF&ring_color=E9ECEF&hide_border=true#gh-dark-mode-only)](https://github.com/Hishantik/Hishantik)
+[![Hishantik's github stats-dark](https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=006400&text_color=006400&bg_color=45,E9ECEF,DEE2E6&custom_title=My%20Github%20Stats%20:&icon_color=006400&ring_color=006400&hide_border=true#gh-light-mode-only)](https://github.com/Hishantik/Hishantik)
+
+<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=E9ECEF&text_color=E9ECEF&bg_color=45,232323,495057&custom_title=My Github Stats :&icon_color=E9ECEF&ring_color=E9ECEF&hide_border=true#gh-dark-mode-only"> -->
+<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=006400&text_color=006400&bg_color=45,E9ECEF,DEE2E6&custom_title=My Github Stats :&icon_color=006400&ring_color=006400#gh-light-mode-only"> -->
  <img width="100%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">
 
 </div>
