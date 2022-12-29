@@ -90,7 +90,8 @@ ${\textsf{\Large{\color{green}{  \ Contributions : }}}}$
 
 </font>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&theme=gotham&area=true&hide_border=true">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=232323&line=E9ECEF&point=E9ECEF&title_color=E9ECEF&color=E9ECEF&custom_title=My%20Contribution%20Graph :&area_color=E9ECEF&area=true&hide_border=true#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hishantik&bg_color=E9ECEF&line=006400&point=006400&title_color=006400&color=006400&custom_title=My%20Contribution%20Graph :&area_color=228B22&area=true&hide_border=true#gh-dark-mode-only">
 
 <!-- [<img width=100% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">]() -->
 
@@ -106,6 +107,8 @@ ${\textsf{\Large{\color{green}{  \ Contributions : }}}}$
 ${\textsf{\Large{\color{green}{  \ Achievements : }}}}$
  </font>
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=E9ECEF&text_color=E9ECEF&bg_color=45,232323,495057&custom_title=My Github Stats :&icon_color=E9ECEF&ring_color=E9ECEF#gh-dark-mode-only">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&title_color=006400&text_color=006400&bg_color=45,E9ECEF,DEE2E6&custom_title=My Github Stats :&icon_color=006400&ring_color=006400#gh-light-mode-only">
  <img width="100%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">
 
 </div>
@@ -131,7 +134,6 @@ ${\textsf{\Large{\color{green}{  \ Activities \ and \ performance  : }}}}$
 <div align=center>
 <img width=45% src="https://user-images.githubusercontent.com/60609786/209762140-c2afe0ff-5f11-40c5-b1b6-8c070d949811.png">                                             
 <img width=51% src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.activity.svg"> 
-<<<<<<< HEAD
 </td></table>
 <div align="center"></div>
 
