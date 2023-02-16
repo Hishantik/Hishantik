@@ -7,7 +7,7 @@
 **Hi** :wave:
 =========
 
-<img height=250 width=250 align=right src="https://user-images.githubusercontent.com/60609786/219274930-35b67bd2-7882-448b-ad0f-6f4c4fafc689.gif"/>
+<img height="30%" width="30%" align=right src="https://user-images.githubusercontent.com/60609786/219274930-35b67bd2-7882-448b-ad0f-6f4c4fafc689.gif"/>
 
 I am `Hishantik Sarkar`.I am a software engineer with an interest 
 in *programming languages*.
