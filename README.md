@@ -95,26 +95,7 @@ ___
 
 
 [<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=171515&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>][Null]
-
-
-
-
-
-
-
-
-
-
 [<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=171515&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>][Null]
-
-
-
-
-
-
-
-
-
 [<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=171515&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/><br/><br/><br/>][Null]
 </div>
 
