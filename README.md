@@ -73,7 +73,10 @@ in *programming languages*.
 <img width="60%" align=right src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=nativeProject&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">
 
 ![snake-light](https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 ![snake-dark](https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<br/><br/>
 </details>
 
 ___
@@ -112,8 +115,7 @@ ___
 
 
 
-<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=171515&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/><br/><br/><br/><br/><br/><br/><br/>
-
+<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=171515&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/><br/><br/><br/><br/>
 
 </div>
 
