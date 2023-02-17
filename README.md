@@ -91,7 +91,7 @@ ___
 
 ___
 
-#### **`My Githib stats & Contributions`:rocket:**
+#### **`My Github stats & Contributions`:rocket:**
 
 
 [<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=171515&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>][Null]
