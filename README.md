@@ -7,7 +7,7 @@
 **Hi** :wave:
 -------------
 
-<a href="#"><img height="35%" width="35%" align=right src="https://user-images.githubusercontent.com/60609786/219274930-35b67bd2-7882-448b-ad0f-6f4c4fafc689.gif"/></a>
+[<img height="35%" width="35%" align=right src="https://user-images.githubusercontent.com/60609786/219274930-35b67bd2-7882-448b-ad0f-6f4c4fafc689.gif"/>][Null]
 
 I am `Hishantik Sarkar`.I am a software engineer with an interest 
 in *programming languages*.
@@ -69,8 +69,8 @@ in *programming languages*.
 **:eyeglasses:`My projects`**
 </summary>
 
-<img width="60%" align=left src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=openAI-shell-cli&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">
-<img width="60%" align=right src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=nativeProject&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">
+[<img width="60%" align=left src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=openAI-shell-cli&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">][Null]
+[<img width="60%" align=right src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=nativeProject&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">][Null]
 
 ![snake-light](https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -94,7 +94,7 @@ ___
 #### **`My Githib stats & Contributions`:rocket:**
 
 
-<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=171515&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>
+[<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=171515&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>][Null]
 
 
 
@@ -105,7 +105,7 @@ ___
 
 
 
-<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=171515&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>
+[<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=171515&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>][Null]
 
 
 
@@ -115,7 +115,7 @@ ___
 
 
 
-<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=171515&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/><br/><br/><br/>
+[<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=171515&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/><br/><br/><br/>][Null]
 </div>
 
 ___
@@ -151,10 +151,10 @@ ___
 #### **`Connect with me `:handshake:**
 <div align=center>
 
-[![facebook](https://user-images.githubusercontent.com/60609786/219572788-6939a6fb-ca1e-47be-b9be-d42e285a1bc9.svg)][Facebook]&nbsp; &nbsp;
-[![instagram](https://user-images.githubusercontent.com/60609786/219573162-79e63135-ce14-407b-9960-4c7a493723bd.svg)][Instagram] &nbsp; &nbsp;
-[![twitter](https://user-images.githubusercontent.com/60609786/219573335-3cd3804c-a42a-46bb-bdaf-5ff0562b46dd.svg)][Twitter]&nbsp; &nbsp;
-[![youtube](https://user-images.githubusercontent.com/60609786/219573996-51c15cd2-1b25-48bb-94ed-00fdc9341592.svg)][Youtube]
+[<img width="8%" src="https://user-images.githubusercontent.com/60609786/219572788-6939a6fb-ca1e-47be-b9be-d42e285a1bc9.svg">][Facebook]&nbsp; &nbsp;
+[<img width="8%" src="https://user-images.githubusercontent.com/60609786/219573162-79e63135-ce14-407b-9960-4c7a493723bd.svg">][Instagram] &nbsp; &nbsp;
+[<img width="8%" src="https://user-images.githubusercontent.com/60609786/219573335-3cd3804c-a42a-46bb-bdaf-5ff0562b46dd.svg">][Twitter]&nbsp; &nbsp;
+[<img width="8%" src="https://user-images.githubusercontent.com/60609786/219573996-51c15cd2-1b25-48bb-94ed-00fdc9341592.svg">][Youtube]
 </div>
 
 
@@ -167,6 +167,7 @@ ___
 [Twitter]: https://twitter.com/sarkar_234
 [Github]: https://gihub.com/Hishantik
 [Hashnode]:https://hashnode.com/@Dekustik
+[Null]: #
 [Youtube]: #
 [Linkedin]: #
 [LeetCode]:https://leetcode.com/Dekustik
