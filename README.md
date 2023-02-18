@@ -1,3 +1,4 @@
+<kbd>   
 <div align=center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=900&size=40&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%B0;Bonjour;Guten+Tag;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5;%E4%BD%A0%E5%A5%BD;Hola)](#)
@@ -94,9 +95,11 @@ ___
 
 </div>
 
+
 ##### **`Right Now I'm listening`:headphones:**
 
 [![Spotify](https://dekutorem.vercel.app/api/spotify?background_color=171515&border_color=C77DFF)](https://open.spotify.com/user/deku)
+
 
 ___
 
@@ -107,6 +110,7 @@ ___
 [<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=171515&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>][Null]
 [<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=171515&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/>][Null]<br/><br/><br/><br/><br/>
 </div>
+
 
 ___
 
@@ -148,7 +152,7 @@ ___
 [<img width="8%" src="https://user-images.githubusercontent.com/60609786/219573996-51c15cd2-1b25-48bb-94ed-00fdc9341592.svg">][Youtube]
 </div>
 
-
+</kbd>
 
 
 
