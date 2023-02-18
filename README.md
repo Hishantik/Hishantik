@@ -37,15 +37,38 @@ in **programming languages**.
 ___
 <div align=center>
 
+**`Leetcode`:nerd_face:**
+
+[<img  src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.leetcode.svg">](#)
+
+___
+<details align=left>
+<summary>
+
+**`Achievements`**
+</summary>
+<div align=center>
+
+[<img  src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.achievements.compact.svg">](#)
+</div>
+</details>
+
+<details align=right>
+<summary>
+
 **`My stackoverflow stats`**
+</summary>
+<div align=center>
 
 [![stackoverflow card](https://readme-cards-coral.vercel.app/api?component=stackoverflow&stackoverflowid=20044958&fill=171515&textfill=c77dff)](#)
 [<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.stackoverflow.svg">](#)
 </div>
+</details>
+</div>
 
 ___
 
-<details align=right>
+<details align=left>
 <summary>
 
 **:books:`My Stacks`**
@@ -75,7 +98,7 @@ ___
 </kbd>
 </details>
 
-<details>
+<details align=right>
 <summary>
 
 **:eyeglasses:`My projects`**
@@ -125,8 +148,8 @@ ___
 
 <kbd>
 
+[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">](#)
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
-[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.fullyear.svg">](#)
 <!-- <img alt="contibution snake" src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/> -->
 </kbd>
 
