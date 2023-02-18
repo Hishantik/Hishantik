@@ -19,13 +19,13 @@ in *programming languages*.
 </summary>
 
 + I have experience with :-
-     - [![html progressbar](https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=HTML&value=90&fill=c77dff&design=neon)](#)
-     - [![css progressbar](https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=CSS&value=60&fill=c77dff&design=neon)](#)
-     - [![Javascript progressbar](https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Javascript&value=70&fill=c77dff&design=neon)](#)
-     - [![Kotlin progressbar](https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Kotlin&value=50&fill=c77dff)](#)
-     - [![Go progressbar](https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Go&value=70&fill=c77dff&design=neon)](#)
-     - [![Shell scripting progressbar](https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Bash&value=70&fill=c77dff&design=neon)](#)
-     - [![Python progressbar](https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Python&value=40&fill=c77dff)](#)
+     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=HTML&value=90&fill=c77dff&design=neon">](#)
+     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=CSS&value=70&fill=c77dff&design=neon">](#)
+     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Javascript&value=80&fill=c77dff&design=neon">](#)
+     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Kotlin&value=40&fill=c77dff&design=plain">](#)
+     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Go&value=60&fill=c77dff&design=neon">](#)
+     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Bash&value=70&fill=c77dff&design=neon">](#)
+     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Python&value=50&fill=c77dff&design=plain">](#)
 
 
 + I am still learning more *technologies **&** languages* as well as gaining deeper knowledge in the ones I already know.
@@ -50,25 +50,26 @@ ___
 </summary>
 <div align=center>
 
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=react&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=c77dff&animation=spin)
-![techstack logo](https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=c77dff&animation=spin)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=xaml&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=json&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=c77dff&animation=spin">](#)
+[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=c77dff&animation=spin">](#)
 </div>
 </details>
 
@@ -92,7 +93,8 @@ ___
 
 </div>
 
-#### **`Right Now I'm listening`:headphones:**
+**`Right Now I'm listening`:headphones:**
+-----------------------------------------
 
 [![Spotify](https://dekutorem.vercel.app/api/spotify?background_color=171515&border_color=C77DFF)](https://open.spotify.com/user/deku)
 
@@ -127,14 +129,12 @@ ___
 
 #### **`Waka-Time stats`**
 </summary>
-<kbd>
 
 <!--START_SECTION:waka-->
 
 
 
 <!--END_SECTION:waka-->
-</kbd>
 </details>
 </div>
 
