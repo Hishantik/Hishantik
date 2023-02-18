@@ -48,29 +48,29 @@ ___
 
 **:books:`My Stacks`**
 </summary>
-<div align=center>
+<kbd align=center>
 
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=xaml&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=json&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=c77dff&animation=spin">](#)
-[<img width=140 src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=c77dff&animation=spin">](#)
-</div>
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=xaml&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=json&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=c77dff&animation=spin">](#)
+[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=c77dff&animation=spin">](#)
+</kbd>
 </details>
 
 <details>
@@ -81,9 +81,10 @@ ___
 
 <!-- [<img width="60%" align=left src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=openAI-shell-cli&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">][Null] -->
 <!-- [<img width="60%" align=right src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=nativeProject&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">][Null] -->
-
-[<img width="60%" align=left src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/openAI-shell-cli">](https://github.com/Hishantik/openAI-shell-cli)
-[<img width="60%" align=right src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/nativeProject">](https://github.com/Hishantik/nativeProject)
+<kbd>
+<img width="60%" align=left src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/openAI-shell-cli">
+<img width="60%" align=right src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/nativeProject">
+</kbd>
 <br/><br/>
 </details>
 
@@ -93,14 +94,13 @@ ___
 
 </div>
 
-**`Right Now I'm listening`:headphones:**
------------------------------------------
+##### **`Right Now I'm listening`:headphones:**
 
 [![Spotify](https://dekutorem.vercel.app/api/spotify?background_color=171515&border_color=C77DFF)](https://open.spotify.com/user/deku)
 
 ___
 
-#### **`My Github stats & Contributions`:rocket:**
+##### **`My Github stats & Contributions`:rocket:**
 
 
 [<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=171515&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>][Null]
@@ -112,7 +112,7 @@ ___
 
 <div align=center>
 
-#### **`My Contribution Graph`:chart_with_upwards_trend:**
+##### **`My Contribution Graph`:chart_with_upwards_trend:**
 
 
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
@@ -127,7 +127,7 @@ ___
 <details>
 <summary>
 
-#### **`Waka-Time stats`**
+##### **`Waka-Time stats`**
 </summary>
 
 <!--START_SECTION:waka-->
@@ -139,7 +139,7 @@ ___
 </div>
 
 ___
-#### **`Connect with me `:handshake:**
+##### **`Connect with me `:handshake:**
 <div align=center>
 
 [<img width="8%" src="https://user-images.githubusercontent.com/60609786/219572788-6939a6fb-ca1e-47be-b9be-d42e285a1bc9.svg">][Facebook]&nbsp; &nbsp;
