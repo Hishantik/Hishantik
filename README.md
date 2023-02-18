@@ -156,8 +156,17 @@ ___
 <details>
 <summary>
 
-**`My recent Anilist activity`**
+**`My Recent Activities`**
 </summary>
+
+**Github Activity**
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+___
+
+**Anilist Activity**
 
 <!-- ANILIST_ACTIVITY:start -->
 
