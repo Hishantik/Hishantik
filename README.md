@@ -121,13 +121,13 @@ ___
 <div align=center>
 
 **`My Contribution Graph`:chart_with_upwards_trend:**
+
 <kbd>
 
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
-<!-- ![snake-light](https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 <img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/>
-
 </kbd>
+
 </div>
 
 ___
@@ -215,3 +215,4 @@ ___
 <!-- <img src="https://img.shields.io/badge/Language-Python-c77dff?style=for-the-badge&logo=Python"> -->
 <!-- <img src="https://img.shields.io/badge/Language-TypeScript-c77dff?style=for-the-badge&logo=TypeScript"> -->
 
+<!--![snake-light](https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
