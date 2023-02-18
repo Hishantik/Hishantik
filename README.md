@@ -138,13 +138,17 @@ ___
 
 <!-- BLOG-POST-LIST:END -->
 ___
+<details>
+<summary>
 
 **`Waka-Time stats`**
+</summary>
 <!--START_SECTION:waka-->
 
 
 
 <!--END_SECTION:waka-->
+</details>
 </div>
 
 ___
