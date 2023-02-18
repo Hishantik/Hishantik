@@ -40,6 +40,7 @@ ___
 **`My stackoverflow stats`**
 
 [![stackoverflow card](https://readme-cards-coral.vercel.app/api?component=stackoverflow&stackoverflowid=20044958&fill=171515&textfill=c77dff)](#)
+[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.stackoverflow.svg">](#)
 </div>
 
 ___
@@ -125,7 +126,8 @@ ___
 <kbd>
 
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
-<img alt="contibution snake" src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/>
+[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.fullyear.svg">](#)
+<!-- <img alt="contibution snake" src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/> -->
 </kbd>
 
 </div>
@@ -161,12 +163,18 @@ ___
 
 **Github Activity**
 
+[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.activity.svg">](#)
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 ___
 
 **Anilist Activity**
+
+[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.anilist.characters.svg">](#)
+[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.anilist.manga.svg">](#)
+
 
 <!-- ANILIST_ACTIVITY:start -->
 

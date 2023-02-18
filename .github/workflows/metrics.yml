@@ -251,17 +251,6 @@ jobs:
           plugin_leetcode_user: Dekustik
           plugin_leetcode_sections: solved, skills, recent
 
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-         filename: metrics.plugin.wakatime.svg
-         token: NOT_NEEDED
-         base: ""
-         output_action: gist
-         committer_gist: ${{ secrets.GIST }}
-         plugin_wakatime: yes
-         plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-         plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Recent posts with descriptions and cover images
         uses: lowlighter/metrics@latest
@@ -312,7 +301,6 @@ jobs:
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
 
-
       - name: Using chartist charts
         uses: lowlighter/metrics@latest
         with:
@@ -334,19 +322,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_gists: yes
 
-      # - name: Sponsors introduction
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics.plugin.sponsors.full.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     base: ""
-      #     output_action: gist
-      #     committer_gist: ${{ secrets.GIST }}
-      #     plugin_sponsors: yes
-      #     plugin_sponsors_title: Support Me!
-      #     #plugin_sponsors_section: goal, list, about
-      #     plugin_sponsors_size: 30
-
+      
       - name: Repositories and diff history
         uses: lowlighter/metrics@latest
         with:
@@ -407,5 +383,31 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: hishantik/openAI-shell-cli,hishantik/nativeProject
 
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.wakatime.svg
+         token: NOT_NEEDED
+         base: ""
+         output_action: gist
+         committer_gist: ${{ secrets.GIST }}
+         plugin_wakatime: yes
+         plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+         plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
+
+
+
+# - name: Sponsors introduction
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.sponsors.full.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_sponsors: yes
+      #     plugin_sponsors_title: Support Me!
+      #     #plugin_sponsors_section: goal, list, about
+      #     plugin_sponsors_size: 30
 
