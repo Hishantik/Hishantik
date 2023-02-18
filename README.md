@@ -51,26 +51,26 @@ ___
 </summary>
 <kbd align=center>
 
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=xaml&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=json&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=c77dff&animation=spin">](#)
-[<img src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=c77dff&animation=spin">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=xaml&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=json&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=171515&animation=spin&textfill=c77dff">](#)
 </kbd>
 </details>
 
@@ -127,7 +127,7 @@ ___
 
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
 <!-- ![snake-light](https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-[<img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg">](#)
+<img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
