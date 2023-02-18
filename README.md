@@ -117,9 +117,6 @@ ___
 </kbd>
 </div>
 
-
-___
-
 <div align=center>
 
 **`My Contribution Graph`:chart_with_upwards_trend:**
@@ -131,22 +128,22 @@ ___
 
 </div>
 
+___
 <div align=center>
 
+**`Blogs`**
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 ___
-<details>
-<summary>
 
 **`Waka-Time stats`**
-</summary>
-<kbd>
 <!--START_SECTION:waka-->
 
 
 
 <!--END_SECTION:waka-->
-</kbd>
-</details>
 </div>
 
 ___
