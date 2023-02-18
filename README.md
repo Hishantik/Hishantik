@@ -89,18 +89,20 @@ ___
 <br/><br/>
 </details>
 
-___
 </details>
 
 
 </div>
 
-<div align=left>
+___
+
+<kbd align=left>
 
 [<img width="4%" src="https://user-images.githubusercontent.com/60609786/219664623-7b5c7889-a785-4d4b-a028-1d1299ce4beb.gif">](#)**`Right Now I'm listening`:headphones:**
 
 [![Spotify](https://dekutorem.vercel.app/api/spotify?background_color=171515&border_color=C77DFF)](https://open.spotify.com/user/deku)
-</div>
+
+</kbd>
 
 ___
 
