@@ -125,7 +125,7 @@ ___
 <kbd>
 
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
-<img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.gif"/>
 </kbd>
 
 </div>
