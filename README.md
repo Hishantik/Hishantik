@@ -139,12 +139,13 @@ ___
 
 **`Waka-Time stats`**
 </summary>
-
+<kbd>
 <!--START_SECTION:waka-->
 
 
 
 <!--END_SECTION:waka-->
+</kbd>
 </details>
 </div>
 
