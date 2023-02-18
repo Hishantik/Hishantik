@@ -121,12 +121,13 @@ ___
 <div align=center>
 
 **`My Contribution Graph`:chart_with_upwards_trend:**
-
+<kbd>
 
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
 <!-- ![snake-light](https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 <img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/>
 
+</kbd>
 </div>
 
 ___
@@ -138,21 +139,25 @@ ___
 
 <!-- BLOG-POST-LIST:END -->
 ___
+
 <details>
 <summary>
 
 **`Waka-Time stats`**
 </summary>
+
 <!--START_SECTION:waka-->
 
 
 
 <!--END_SECTION:waka-->
+
 </details>
 </div>
 
 ___
-**`Connect with me `:handshake:**
+
+**:link:`Connect with me`**
 <div align=center>
 
 [<img width="8%" src="https://user-images.githubusercontent.com/60609786/219572788-6939a6fb-ca1e-47be-b9be-d42e285a1bc9.svg">][Facebook]&nbsp; &nbsp;
