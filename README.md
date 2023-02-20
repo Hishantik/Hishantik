@@ -59,7 +59,7 @@ ___
 </summary>
 <div align=center>
 
-[![stackoverflow card](https://readme-cards-coral.vercel.app/api?component=stackoverflow&stackoverflowid=20044958&fill=171515&textfill=c77dff)](#)
+[![stackoverflow card](https://readme-cards-coral.vercel.app/api?component=stackoverflow&stackoverflowid=20044958&fill=161b22&textfill=c77dff)](#)
 [<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.stackoverflow.svg">](#)
 </div>
 </details>
@@ -72,7 +72,7 @@ ___
 
 **:books:`My Stacks`**
 </summary>
-<kbd align=center>
+<div align=center>
 
 [<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=161B22&animation=spin&textfill=c77dff">](#)
 [<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=161B22&animation=spin&textfill=c77dff">](#)
@@ -94,7 +94,7 @@ ___
 [<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=161b22&animation=spin&textfill=c77dff">](#)
 [<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=161b22&animation=spin&textfill=c77dff">](#)
 [<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=161b22&animation=spin&textfill=c77dff">](#)
-</kbd>
+</div>
 </details>
 
 <details align=right>
@@ -138,12 +138,17 @@ ___
 
 </div>
 
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <div align=center>
-<kbd>
 
 ___
+<br/>
 
 **`My Contribution Graph`:chart_with_upwards_trend:**
 
@@ -151,7 +156,6 @@ ___
 [<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">](#)
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=161B22&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
 <!-- <img alt="contibution snake" src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/> -->
-</kbd>
 
 </div>
 
