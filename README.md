@@ -131,21 +131,22 @@ ___
 
 **`My Github stats & Contributions`:rocket:**
 
-<kbd>
 
 [<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=161B22&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>][Null]
 [<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=161B22&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>][Null]
 [<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=161B22&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/>][Null]
 
-</kbd>
 </div>
 
-___
+
+
 <div align=center>
+<kbd>
+
+___
 
 **`My Contribution Graph`:chart_with_upwards_trend:**
 
-<kbd>
 
 [<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">](#)
 [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=161B22&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
@@ -171,49 +172,6 @@ ___
 </summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning       39 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-🌆 Daytime       71 commits       ███████░░░░░░░░░░░░░░░░░░   30.47 % 
-🌃 Evening       83 commits       █████████░░░░░░░░░░░░░░░░   35.62 % 
-🌙 Night         40 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday          16 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Tuesday         22 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Wednesday       60 commits       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-Thursday        23 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Friday          47 commits       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Saturday        40 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Sunday          25 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 16 hrs 16 mins      ███████████████████░░░░░░   78.54 % 
-Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-
-🔥 Editors: 
-Neovim                   20 hrs 43 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    20 hrs 43 mins      █████████████████████████   100.00 % 
-
-```
-
 
 <!--END_SECTION:waka-->
 
@@ -242,12 +200,6 @@ ___
 
 
 <!-- ANILIST_ACTIVITY:start -->
-
--   📖 Read chapter 84 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (18:47 19 February 2023)
--   📖 Read chapter 87 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (19:49 18 February 2023)
--   📖 Read chapter 50 of [Designated Bully](https://anilist.co/manga/153207) (13:16 18 February 2023)
--   📖 Read chapter 71 - 72 of [Reality Quest](https://anilist.co/manga/141705) (13:28 15 February 2023)
--   📖 Read chapter 73 of [Duke Pendragon: Master of the White Dragon](https://anilist.co/manga/143025) (11:39 15 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
