@@ -109,12 +109,12 @@ ___
 <!-- <img width="60%" align=left src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/openAI-shell-cli"> -->
 <!-- <img width="60%" align=right src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/nativeProject"> -->
 <!-- </kbd> -->
+
 <div align=center>
 
 [<img align=center src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.repositories.svg ">](#)
 </div>
 
-<br/><br/>
 </details>
 
 </details>
