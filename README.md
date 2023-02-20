@@ -1,4 +1,3 @@
-<kbd>   
 <div align=center>
 
 [![hululuwakaka](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=900&size=40&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&height=150&lines=Hello;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%B0;Bonjour;Guten+Tag;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5;%E4%BD%A0%E5%A5%BD;Hola)](#)
@@ -20,13 +19,13 @@ in **programming languages**.
 </summary>
 
 + I have experience with :-
-     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=HTML&value=90&fill=c77dff&design=neon">](#)
-     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=CSS&value=70&fill=c77dff&design=neon">](#)
-     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Javascript&value=80&fill=c77dff&design=neon">](#)
-     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Kotlin&value=40&fill=c77dff&design=plain">](#)
-     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Go&value=60&fill=c77dff&design=neon">](#)
-     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Bash&value=70&fill=c77dff&design=neon">](#)
-     - [<img width="50%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Python&value=50&fill=c77dff&design=plain">](#)
+     - [<img width="30%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=HTML&value=90&fill=c77dff&design=neon">](#)
+     - [<img width="30%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=CSS&value=70&fill=c77dff&design=neon">](#)
+     - [<img width="30%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Javascript&value=80&fill=c77dff&design=neon">](#)
+     - [<img width="30%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Kotlin&value=40&fill=c77dff&design=plain">](#)
+     - [<img width="30%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Go&value=60&fill=c77dff&design=neon">](#)
+     - [<img width="30%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Bash&value=70&fill=c77dff&design=neon">](#)
+     - [<img width="30%" src="https://readme-cards-coral.vercel.app/api?component=linearprogress&skill=Python&value=50&fill=c77dff&design=plain">](#)
 
 
 + I am still learning more *technologies **&** languages* as well as gaining deeper knowledge in the ones I already know.
@@ -75,26 +74,26 @@ ___
 </summary>
 <kbd align=center>
 
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=xaml&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=json&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=171515&animation=spin&textfill=c77dff">](#)
-[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=171515&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=neovim&fill=161B22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=visual%20studio%20code&fill=161B22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=intellij%20idea&fill=161B22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=git&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=github&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=html5&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=css3&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=javascript&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=typescript&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=java&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=kotlin&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=go&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=xaml&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=json&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=gnu%20bash&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=python&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mysql&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=postgresql&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=mongodb&fill=161b22&animation=spin&textfill=c77dff">](#)
+[<img width="14%" height="7%" src="https://readme-cards-coral.vercel.app/api?component=logo&logo=graphql&fill=161b22&animation=spin&textfill=c77dff">](#)
 </kbd>
 </details>
 
@@ -124,7 +123,7 @@ ___
 
 [<img width="4%" src="https://user-images.githubusercontent.com/60609786/219664623-7b5c7889-a785-4d4b-a028-1d1299ce4beb.gif">](#)**`Right Now I'm listening`:headphones:**
 
-[![Spotify](https://dekutorem.vercel.app/api/spotify?background_color=171515&border_color=C77DFF)](https://open.spotify.com/user/deku)
+[![Spotify](https://dekutorem.vercel.app/api/spotify?background_color=161B22&border_color=C77DFF)](https://open.spotify.com/user/deku)
 
 </kbd>
 
@@ -134,9 +133,9 @@ ___
 
 <kbd>
 
-[<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=171515&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>][Null]
-[<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=171515&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>][Null]
-[<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=171515&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/>][Null]
+[<img width="60%" align=left src="https://github-readme-stats.vercel.app/api?username=hishantik&show_icons=true&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&custom_title=My%20GitHub%20Stats&bg_color=161B22&border_color=C77DFF&border_radius=20#gh-dark-mode-only"/>][Null]
+[<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=161B22&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>][Null]
+[<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=161B22&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/>][Null]
 
 </kbd>
 </div>
@@ -149,7 +148,7 @@ ___
 <kbd>
 
 [<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">](#)
-[![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=171515&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
+[![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=161B22&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
 <!-- <img alt="contibution snake" src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/> -->
 </kbd>
 
@@ -267,7 +266,6 @@ ___
 [<img width="8%" src="https://user-images.githubusercontent.com/60609786/219573996-51c15cd2-1b25-48bb-94ed-00fdc9341592.svg">][Youtube]
 </div>
 
-</kbd>
 
 
 
