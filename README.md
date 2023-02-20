@@ -247,6 +247,12 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 84 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (18:47 19 February 2023)
+-   📖 Read chapter 87 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (19:49 18 February 2023)
+-   📖 Read chapter 50 of [Designated Bully](https://anilist.co/manga/153207) (13:16 18 February 2023)
+-   📖 Read chapter 71 - 72 of [Reality Quest](https://anilist.co/manga/141705) (13:28 15 February 2023)
+-   📖 Read chapter 73 of [Duke Pendragon: Master of the White Dragon](https://anilist.co/manga/143025) (11:39 15 February 2023)
+
 <!-- ANILIST_ACTIVITY:end -->
 </details>
 </div>
