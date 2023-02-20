@@ -380,6 +380,7 @@ jobs:
           filename: metrics.plugin.repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          output_action: gist
           plugin_repositories: yes
           plugin_repositories_featured: hishantik/openAI-shell-cli,hishantik/nativeProject
 
