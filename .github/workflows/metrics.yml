@@ -381,6 +381,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_repositories: yes
           plugin_repositories_featured: hishantik/openAI-shell-cli,hishantik/nativeProject
 

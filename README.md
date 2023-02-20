@@ -1,6 +1,6 @@
 <div align=center>
 
-[![hululuwakaka](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=900&size=40&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&height=150&lines=Hello;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%B0;Bonjour;Guten+Tag;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5;%E4%BD%A0%E5%A5%BD;Hola)](#)
+[![hululuwakaka](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=900&size=40&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&height=145&lines=Hello;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%B0;Bonjour;Guten+Tag;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5;%E4%BD%A0%E5%A5%BD;Hola)](#)
 
 <div align=left>
 
@@ -105,10 +105,12 @@ ___
 
 <!-- [<img width="60%" align=left src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=openAI-shell-cli&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">][Null] -->
 <!-- [<img width="60%" align=right src="https://github-readme-stats.vercel.app/api/pin/?username=hishantik&repo=nativeProject&bg_color=171515&border_color=C77DFF&title_color=C77DFF&icon_color=C77DFF&text_color=ECAD9C&show_owner">][Null] -->
-<kbd>
-<img width="60%" align=left src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/openAI-shell-cli">
-<img width="60%" align=right src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/nativeProject">
-</kbd>
+<!-- <kbd> -->
+<!-- <img width="60%" align=left src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/openAI-shell-cli"> -->
+<!-- <img width="60%" align=right src="https://svg.bookmark.style/api?url=https://github.com/Hishantik/nativeProject"> -->
+<!-- </kbd> -->
+[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.repositories.svg ">](#)
+
 <br/><br/>
 </details>
 
@@ -119,13 +121,13 @@ ___
 
 ___
 
-<kbd align=left>
+<div align=left>
 
-[<img width="4%" src="https://user-images.githubusercontent.com/60609786/219664623-7b5c7889-a785-4d4b-a028-1d1299ce4beb.gif">](#)**`Right Now I'm listening`:headphones:**
+[<img width="4%" align=left src="https://user-images.githubusercontent.com/60609786/219664623-7b5c7889-a785-4d4b-a028-1d1299ce4beb.gif">](#)**`Right Now I'm listening`:headphones:**
 
-[![Spotify](https://dekutorem.vercel.app/api/spotify?background_color=161B22&border_color=C77DFF)](https://open.spotify.com/user/deku)
+[<img src="https://dekutorem.vercel.app/api/spotify?background_color=161B22&border_color=C77DFF"/>](https://open.spotify.com/user/deku)
 
-</kbd>
+</div>
 
 ___
 
@@ -136,26 +138,20 @@ ___
 [<img width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishantik&exclude_repo=github-readme-stats,hishantik.github.io&layout=compact&bg_color=161B22&title_color=C77DFF&border_radius=20&border_color=C77DFF&custom_title=Most%20language%20I%20am%20familiar%20with%20:&text_color=ECAD9C"/>][Null]
 [<img width="60%" align=right src="https://streak-stats.demolab.com/?user=hishantik&border_radius=20&background=161B22&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=ECAD9C&currStreakNum=ECAD9C&currStreakLabel=ECAD9C&sideNums=C77DFF&sideLabels=ECAD9C&dates=C77DFF"/>][Null]
 
+[<img width="100%" src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.languages.indepth.svg">](#)
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <div align=center>
 
 ___
-<br/>
 
 **`My Contribution Graph`:chart_with_upwards_trend:**
 
 
-[<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">](#)
-[![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=161B22&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#)
-<!-- <img alt="contibution snake" src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/> -->
+<!-- [<img src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.svg">](#) -->
+[<img width="100%" src="https://gist.github.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.isocalendar.fullyear.svg">](#)
+<!-- [![Hishantik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hishantik&bg_color=161B22&radius=26&hide_border=true&area=true&line=C77DFF&point=C77DFF&color=ECAD9C&title_color=C77DFF&custom_title=My%20Contribution%20Graph)](#) -->
+<img alt="contibution snake" src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
