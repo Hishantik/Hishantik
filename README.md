@@ -247,11 +247,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 416 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (17:01 22 February 2023)
 -   📖 Read chapter 51 of [Designated Bully](https://anilist.co/manga/153207) (04:29 22 February 2023)
 -   📖 Read chapter 74 of [Duke Pendragon: Master of the White Dragon](https://anilist.co/manga/143025) (04:21 22 February 2023)
 -   📖 Read chapter 84 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (18:47 19 February 2023)
 -   📖 Read chapter 87 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (19:49 18 February 2023)
--   📖 Read chapter 50 of [Designated Bully](https://anilist.co/manga/153207) (13:16 18 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
