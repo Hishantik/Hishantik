@@ -244,11 +244,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 419 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (19:33 24 February 2023)
 -   📖 Read chapter 73 of [Reality Quest](https://anilist.co/manga/141705) (10:39 24 February 2023)
 -   📖 Read chapter 88 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (10:29 24 February 2023)
 -   📖 Read chapter 37 of [Gucheongugeom](https://anilist.co/manga/156193) (18:17 23 February 2023)
 -   📖 Read chapter 20 - 32 of [Jonjae](https://anilist.co/manga/153987) (10:08 23 February 2023)
--   📖 Read chapter 416 - 418 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (18:34 22 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
