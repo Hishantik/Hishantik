@@ -244,11 +244,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 - 64 of [Doom Breaker](https://anilist.co/manga/136220) (17:33 26 February 2023)
+-   📖 Read chapter 85 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (04:37 27 February 2023)
+-   📖 Read chapter 61 - 66 of [Doom Breaker](https://anilist.co/manga/136220) (04:31 27 February 2023)
 -   📖 Read chapter 419 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (19:33 24 February 2023)
 -   📖 Read chapter 73 of [Reality Quest](https://anilist.co/manga/141705) (10:39 24 February 2023)
 -   📖 Read chapter 88 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (10:29 24 February 2023)
--   📖 Read chapter 37 of [Gucheongugeom](https://anilist.co/manga/156193) (18:17 23 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
