@@ -202,14 +202,13 @@ Sunday                   64 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-INI                      5 mins              ██████████████████░░░░░░░   70.32 % 
-Text                     2 mins              ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
