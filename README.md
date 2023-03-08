@@ -241,11 +241,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [Designated Bully](https://anilist.co/manga/153207) (18:25 08 March 2023)
 -   📖 Read chapter 67 of [Doom Breaker](https://anilist.co/manga/136220) (18:20 06 March 2023)
 -   📖 Read chapter 86 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (19:41 05 March 2023)
 -   📖 Read chapter 74 of [Reality Quest](https://anilist.co/manga/141705) (14:51 05 March 2023)
 -   📖 Read chapter 89 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:21 03 March 2023)
--   📖 Read chapter 420 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (17:16 03 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
