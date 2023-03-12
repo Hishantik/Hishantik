@@ -241,11 +241,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 75 of [Reality Quest](https://anilist.co/manga/141705) (11:10 12 March 2023)
 -   📖 Read chapter 122 - 126 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:02 10 March 2023)
 -   📖 Read chapter 90 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (09:25 10 March 2023)
 -   📖 Read chapter 39 of [Gucheongugeom](https://anilist.co/manga/156193) (09:13 10 March 2023)
 -   📖 Read chapter 28 of [Baeuroseo Salgetda](https://anilist.co/manga/160454) (18:56 09 March 2023)
--   📖 Read chapter 53 of [The Reaper](https://anilist.co/manga/153432) (10:25 09 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
