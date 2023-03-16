@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 136 - 138 of [Infinite Leveling: Murim](https://anilist.co/manga/134635) (20:04 16 March 2023)
 -   📖 Read chapter 54 of [The Reaper](https://anilist.co/manga/153432) (17:45 15 March 2023)
 -   📖 Read chapter 127 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:49 14 March 2023)
 -   📖 Read chapter 75 of [Reality Quest](https://anilist.co/manga/141705) (11:10 12 March 2023)
 -   📖 Read chapter 122 - 126 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:02 10 March 2023)
--   📖 Read chapter 90 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (09:25 10 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
