@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 141 of [Infinite Leveling: Murim](https://anilist.co/manga/134635) (16:30 17 March 2023)
 -   📖 Read chapter 40 of [Gucheongugeom](https://anilist.co/manga/156193) (02:26 17 March 2023)
 -   📖 Read chapter 136 - 140 of [Infinite Leveling: Murim](https://anilist.co/manga/134635) (02:13 17 March 2023)
 -   📖 Read chapter 54 of [The Reaper](https://anilist.co/manga/153432) (17:45 15 March 2023)
 -   📖 Read chapter 127 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:49 14 March 2023)
--   📖 Read chapter 75 of [Reality Quest](https://anilist.co/manga/141705) (11:10 12 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
