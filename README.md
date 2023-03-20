@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 128 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:19 20 March 2023)
 -   📖 Read chapter 84 of [Book Eater](https://anilist.co/manga/137375) (19:41 19 March 2023)
 -   📖 Read chapter 54 of [Designated Bully](https://anilist.co/manga/153207) (21:15 18 March 2023)
 -   📖 Read chapter 91 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (09:05 18 March 2023)
 -   📖 Read chapter 141 of [Infinite Leveling: Murim](https://anilist.co/manga/134635) (16:30 17 March 2023)
--   📖 Read chapter 40 of [Gucheongugeom](https://anilist.co/manga/156193) (02:26 17 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
