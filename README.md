@@ -242,11 +242,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 196 - 198 of [Weak Hero](https://anilist.co/manga/113488) (10:10 22 March 2023)
+-   📖 Read chapter 196 - 201 of [Weak Hero](https://anilist.co/manga/113488) (20:03 22 March 2023)
+-   📖 Read chapter 55 of [The Reaper](https://anilist.co/manga/153432) (19:47 22 March 2023)
 -   📖 Read chapter 421 - 422 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (19:55 21 March 2023)
 -   📖 Read chapter 128 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:19 20 March 2023)
 -   📖 Read chapter 84 of [Book Eater](https://anilist.co/manga/137375) (19:41 19 March 2023)
--   📖 Read chapter 54 of [Designated Bully](https://anilist.co/manga/153207) (21:15 18 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
