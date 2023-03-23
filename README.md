@@ -242,7 +242,7 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 196 - 231 of [Weak Hero](https://anilist.co/manga/113488) (08:07 23 March 2023)
+-   📖 Read chapter 196 - 237 of [Weak Hero](https://anilist.co/manga/113488) (08:56 23 March 2023)
 -   📖 Read chapter 55 of [The Reaper](https://anilist.co/manga/153432) (19:47 22 March 2023)
 -   📖 Read chapter 421 - 422 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (19:55 21 March 2023)
 -   📖 Read chapter 128 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:19 20 March 2023)
