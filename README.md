@@ -242,11 +242,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 423 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (04:05 25 March 2023)
+-   📖 Read chapter 92 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (03:12 25 March 2023)
 -   📖 Read chapter 199 of [Black Clover](https://anilist.co/manga/86123) (19:14 24 March 2023)
 -   📖 Read chapter 41 of [Gucheongugeom](https://anilist.co/manga/156193) (15:14 24 March 2023)
 -   📖 Read chapter 196 - 237 of [Weak Hero](https://anilist.co/manga/113488) (08:56 23 March 2023)
--   📖 Read chapter 55 of [The Reaper](https://anilist.co/manga/153432) (19:47 22 March 2023)
--   📖 Read chapter 421 - 422 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (19:55 21 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
