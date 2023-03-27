@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 142 of [Infinite Leveling: Murim](https://anilist.co/manga/134635) (19:34 27 March 2023)
 -   📖 Read chapter 129 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:45 26 March 2023)
 -   📖 Read chapter 76 of [Reality Quest](https://anilist.co/manga/141705) (19:41 26 March 2023)
 -   📖 Read chapter 55 of [Designated Bully](https://anilist.co/manga/153207) (19:17 26 March 2023)
 -   📖 Read chapter 423 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (04:05 25 March 2023)
--   📖 Read chapter 92 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (03:12 25 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
