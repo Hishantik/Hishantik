@@ -240,7 +240,7 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 269 - 297 of [Black Clover](https://anilist.co/manga/86123) (08:09 02 April 2023)
+-   📖 Read chapter 269 - 306 of [Black Clover](https://anilist.co/manga/86123) (09:07 02 April 2023)
 -   📖 Read chapter 77 of [Reality Quest](https://anilist.co/manga/141705) (16:58 31 March 2023)
 -   📖 Read chapter 42 of [Gucheongugeom](https://anilist.co/manga/156193) (16:52 31 March 2023)
 -   📖 Read chapter 142 of [Infinite Leveling: Murim](https://anilist.co/manga/134635) (19:34 27 March 2023)
