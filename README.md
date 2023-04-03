@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 93 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (06:55 03 April 2023)
 -   📖 Read chapter 269 - 356 of [Black Clover](https://anilist.co/manga/86123) (19:35 02 April 2023)
 -   📖 Read chapter 77 of [Reality Quest](https://anilist.co/manga/141705) (16:58 31 March 2023)
 -   📖 Read chapter 42 of [Gucheongugeom](https://anilist.co/manga/156193) (16:52 31 March 2023)
 -   📖 Read chapter 142 of [Infinite Leveling: Murim](https://anilist.co/manga/134635) (19:34 27 March 2023)
--   📖 Read chapter 129 of [Teenage Mercenary](https://anilist.co/manga/126297) (19:45 26 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
