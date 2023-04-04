@@ -240,7 +240,7 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 60 - 67 of [Sonyeon Geomsa](https://anilist.co/manga/145076) (06:56 04 April 2023)
+-   📖 Read chapter 60 - 70 of [Sonyeon Geomsa](https://anilist.co/manga/145076) (07:21 04 April 2023)
 -   📖 Read chapter 11 - 34 of [God Tribe](https://anilist.co/manga/151371) (04:49 04 April 2023)
 -   📖 Read chapter 56 of [Designated Bully](https://anilist.co/manga/153207) (07:09 03 April 2023)
 -   📖 Read chapter 93 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (06:55 03 April 2023)
