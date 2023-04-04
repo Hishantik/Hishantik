@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 - 34 of [God Tribe](https://anilist.co/manga/151371) (04:49 04 April 2023)
 -   📖 Read chapter 56 of [Designated Bully](https://anilist.co/manga/153207) (07:09 03 April 2023)
 -   📖 Read chapter 93 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (06:55 03 April 2023)
 -   📖 Read chapter 269 - 356 of [Black Clover](https://anilist.co/manga/86123) (19:35 02 April 2023)
 -   📖 Read chapter 77 of [Reality Quest](https://anilist.co/manga/141705) (16:58 31 March 2023)
--   📖 Read chapter 42 of [Gucheongugeom](https://anilist.co/manga/156193) (16:52 31 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
