@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 of [Gucheongugeom](https://anilist.co/manga/156193) (19:20 06 April 2023)
 -   📖 Read chapter 143 - 148 of [Nano Machine](https://anilist.co/manga/120980) (16:12 06 April 2023)
 -   📖 Read chapter 130 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:46 05 April 2023)
 -   📖 Read chapter 60 - 70 of [Sonyeon Geomsa](https://anilist.co/manga/145076) (07:21 04 April 2023)
 -   📖 Read chapter 11 - 34 of [God Tribe](https://anilist.co/manga/151371) (04:49 04 April 2023)
--   📖 Read chapter 56 of [Designated Bully](https://anilist.co/manga/153207) (07:09 03 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
