@@ -240,7 +240,7 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 - 26 of [Akyeokmussang](https://anilist.co/manga/160605) (10:59 11 April 2023)
+-   📖 Read chapter 6 - 32 of [Akyeokmussang](https://anilist.co/manga/160605) (12:03 11 April 2023)
 -   📖 Read chapter 94 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (20:32 10 April 2023)
 -   📖 Read chapter 131 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:45 09 April 2023)
 -   📖 Read chapter 68 - 71 of [Doom Breaker](https://anilist.co/manga/136220) (15:49 07 April 2023)
