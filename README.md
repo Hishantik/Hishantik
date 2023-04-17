@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 95 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:34 17 April 2023)
+-   📖 Read chapter 132 of [Teenage Mercenary](https://anilist.co/manga/126297) (17:27 17 April 2023)
 -   📖 Read chapter 44 of [Gucheongugeom](https://anilist.co/manga/156193) (18:50 13 April 2023)
 -   📖 Read chapter 357 of [Black Clover](https://anilist.co/manga/86123) (18:21 13 April 2023)
 -   📖 Read chapter 78 of [Reality Quest](https://anilist.co/manga/141705) (13:35 13 April 2023)
--   📖 Read chapter 47 of [Akyeokmussang](https://anilist.co/manga/160605) (15:08 12 April 2023)
--   📖 Read chapter 6 - 45 of [Akyeokmussang](https://anilist.co/manga/160605) (14:11 11 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
