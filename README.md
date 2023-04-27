@@ -240,7 +240,7 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 72 of [Doom Breaker](https://anilist.co/manga/136220) (07:54 27 April 2023)
+-   📖 Read chapter 72 - 74 of [Doom Breaker](https://anilist.co/manga/136220) (08:21 27 April 2023)
 -   📖 Read chapter 49 of [Akyeokmussang](https://anilist.co/manga/160605) (16:38 26 April 2023)
 -   📖 Read chapter 151 of [Nano Machine](https://anilist.co/manga/120980) (16:33 26 April 2023)
 -   📖 Read chapter 133 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:31 25 April 2023)
