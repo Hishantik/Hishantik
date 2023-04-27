@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 of [Doom Breaker](https://anilist.co/manga/136220) (07:54 27 April 2023)
 -   📖 Read chapter 49 of [Akyeokmussang](https://anilist.co/manga/160605) (16:38 26 April 2023)
 -   📖 Read chapter 151 of [Nano Machine](https://anilist.co/manga/120980) (16:33 26 April 2023)
 -   📖 Read chapter 133 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:31 25 April 2023)
 -   📖 Read chapter 79 - 80 of [Reality Quest](https://anilist.co/manga/141705) (20:01 24 April 2023)
--   📖 Read chapter 96 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (18:33 24 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
