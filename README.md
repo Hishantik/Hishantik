@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 of [Mabeopseosaeng](https://anilist.co/manga/160740) (19:17 29 April 2023)
 -   📖 Read chapter 386 of [My Hero Academia](https://anilist.co/manga/85486) (05:27 29 April 2023)
 -   📖 Read chapter 97 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (17:53 28 April 2023)
 -   📖 Read chapter 45 - 46 of [Gucheongugeom](https://anilist.co/manga/156193) (19:59 27 April 2023)
 -   📖 Read chapter 72 - 74 of [Doom Breaker](https://anilist.co/manga/136220) (08:21 27 April 2023)
--   📖 Read chapter 49 of [Akyeokmussang](https://anilist.co/manga/160605) (16:38 26 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
