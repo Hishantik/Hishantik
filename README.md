@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 81 of [Reality Quest](https://anilist.co/manga/141705) (10:39 09 May 2023)
 -   📖 Read chapter 134 - 135 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:13 07 May 2023)
 -   📖 Read chapter 50 of [Akyeokmussang](https://anilist.co/manga/160605) (18:05 04 May 2023)
 -   📖 Read chapter 152 of [Nano Machine](https://anilist.co/manga/120980) (22:13 03 May 2023)
 -   📖 Read chapter 26 of [Mabeopseosaeng](https://anilist.co/manga/160740) (19:17 29 April 2023)
--   📖 Read chapter 386 of [My Hero Academia](https://anilist.co/manga/85486) (05:27 29 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
