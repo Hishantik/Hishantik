@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 of [Gucheongugeom](https://anilist.co/manga/156193) (09:18 19 May 2023)
 -   📖 Read chapter 83 of [Reality Quest](https://anilist.co/manga/141705) (18:37 18 May 2023)
 -   📖 Read chapter 82 of [Reality Quest](https://anilist.co/manga/141705) (16:09 17 May 2023)
 -   📖 Read chapter 426 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (15:39 15 May 2023)
 -   📖 Read chapter 424 - 425 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (18:46 14 May 2023)
--   📖 Read chapter 48 of [Gucheongugeom](https://anilist.co/manga/156193) (16:42 11 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
