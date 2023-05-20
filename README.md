@@ -240,7 +240,7 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 98 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (11:46 20 May 2023)
+-   📖 Read chapter 98 - 99 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (12:24 20 May 2023)
 -   📖 Read chapter 49 of [Gucheongugeom](https://anilist.co/manga/156193) (09:18 19 May 2023)
 -   📖 Read chapter 83 of [Reality Quest](https://anilist.co/manga/141705) (18:37 18 May 2023)
 -   📖 Read chapter 82 of [Reality Quest](https://anilist.co/manga/141705) (16:09 17 May 2023)
