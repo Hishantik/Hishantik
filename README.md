@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 238 of [Weak Hero](https://anilist.co/manga/113488) (18:35 20 May 2023)
+-   📖 Read chapter 428 - 429 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (18:25 20 May 2023)
 -   📖 Read chapter 98 - 99 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (12:24 20 May 2023)
 -   📖 Read chapter 49 of [Gucheongugeom](https://anilist.co/manga/156193) (09:18 19 May 2023)
 -   📖 Read chapter 83 of [Reality Quest](https://anilist.co/manga/141705) (18:37 18 May 2023)
--   📖 Read chapter 82 of [Reality Quest](https://anilist.co/manga/141705) (16:09 17 May 2023)
--   📖 Read chapter 426 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (15:39 15 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
