@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (06:17 22 May 2023)
+-   📖 Read chapter 27 of [Mabeopseosaeng](https://anilist.co/manga/160740) (06:12 22 May 2023)
 -   📖 Read chapter 136 - 137 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:39 21 May 2023)
 -   📖 Read chapter 238 of [Weak Hero](https://anilist.co/manga/113488) (18:35 20 May 2023)
 -   📖 Read chapter 428 - 429 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (18:25 20 May 2023)
--   📖 Read chapter 98 - 99 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (12:24 20 May 2023)
--   📖 Read chapter 49 of [Gucheongugeom](https://anilist.co/manga/156193) (09:18 19 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
