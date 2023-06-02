@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 of [Gucheongugeom](https://anilist.co/manga/156193) (21:43 02 June 2023)
 -   📖 Read chapter 28 - 29 of [Mabeopseosaeng](https://anilist.co/manga/160740) (17:52 02 June 2023)
 -   📖 Read chapter 102 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (19:19 01 June 2023)
 -   📖 Read chapter 156 of [Nano Machine](https://anilist.co/manga/120980) (19:13 01 June 2023)
 -   📖 Read chapter 51 of [My Blasted Reincarnated Life](https://anilist.co/manga/151512) (10:01 01 June 2023)
--   📖 Read chapter 101 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (18:54 29 May 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
