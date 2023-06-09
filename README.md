@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (12:32 09 June 2023)
 -   📖 Read chapter 51 of [Akyeokmussang](https://anilist.co/manga/160605) (16:55 08 June 2023)
 -   📖 Read chapter 52 of [Gucheongugeom](https://anilist.co/manga/156193) (16:49 08 June 2023)
 -   📖 Read chapter 30 of [Mabeopseosaeng](https://anilist.co/manga/160740) (18:31 05 June 2023)
 -   📖 Read chapter 34 - 36 of [Jonjae](https://anilist.co/manga/153987) (12:31 05 June 2023)
--   📖 Read chapter 431 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (12:16 05 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
