@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 104 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (18:58 16 June 2023)
 -   📖 Read chapter 53 of [Gucheongugeom](https://anilist.co/manga/156193) (03:14 16 June 2023)
 -   📖 Read chapter 52 of [Akyeokmussang](https://anilist.co/manga/160605) (19:04 15 June 2023)
 -   📖 Read chapter 433 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (11:11 15 June 2023)
 -   📖 Read chapter 432 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (19:07 10 June 2023)
--   📖 Read chapter 103 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (12:32 09 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
