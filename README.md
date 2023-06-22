@@ -240,11 +240,11 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 140 - 141 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:09 22 June 2023)
+-   📖 Read chapter 53 of [Akyeokmussang](https://anilist.co/manga/160605) (21:57 22 June 2023)
+-   📖 Read chapter 54 of [Gucheongugeom](https://anilist.co/manga/156193) (21:52 22 June 2023)
 -   📖 Read chapter 78 - 79 of [Doom Breaker](https://anilist.co/manga/136220) (21:01 20 June 2023)
 -   📖 Read chapter 104 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (18:58 16 June 2023)
--   📖 Read chapter 53 of [Gucheongugeom](https://anilist.co/manga/156193) (03:14 16 June 2023)
--   📖 Read chapter 52 of [Akyeokmussang](https://anilist.co/manga/160605) (19:04 15 June 2023)
--   📖 Read chapter 433 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (11:11 15 June 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
