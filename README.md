@@ -240,7 +240,7 @@ ___
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 23 - 30 of [Cheolhyeolgeomga Sanyanggaeui Hoegwi](https://anilist.co/manga/163824) (04:09 08 July 2023)
+-   📖 Read chapter 23 - 32 of [Cheolhyeolgeomga Sanyanggaeui Hoegwi](https://anilist.co/manga/163824) (04:20 08 July 2023)
 -   📖 Read chapter 22 of [Cheolhyeolgeomga Sanyanggaeui Hoegwi](https://anilist.co/manga/163824) (18:37 05 July 2023)
 -   📖 Read chapter 435 of [Tales of Demons and Gods](https://anilist.co/manga/86707) (09:31 01 July 2023)
 -   📖 Read chapter 54 of [Akyeokmussang](https://anilist.co/manga/160605) (17:55 30 June 2023)
