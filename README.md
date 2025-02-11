@@ -78,7 +78,7 @@ ___
 **`Blogs`**
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaming on Linux Using Wine/Proton with DXVK: A Complete Guide](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)
+- [Gaming on Linux Using Wine/Proton with DXVK &amp; Lutris: A Complete Guide](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)
 <!-- BLOG-POST-LIST:END -->
 ___
 
