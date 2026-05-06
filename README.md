@@ -79,7 +79,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Setting Up Termux for Web Development: A Complete Guide](https://dev.to/hishantik/setting-up-termux-for-web-development-a-complete-guide-jal)
-- [Gaming on Linux Using Wine/Proton with DXVK &amp; Lutris: A Complete Guide](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)
+- [The Complete Guide to Linux Gaming: Setting Up Wine, Proton, and Dependencies.](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)
 <!-- BLOG-POST-LIST:END -->
 ___
 
